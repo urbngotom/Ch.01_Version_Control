@@ -1,5 +1,5 @@
 '''
-Sign your name:________________
+1.0 Jedi Training (17pts)  Name:________________
 
 
 1. Define Forking (1pt): 
