@@ -2,23 +2,22 @@
 Sign your name:________________
 
 
+1. Define Forking (1pt): 
 
-1. Define Forking: 
+2. Define Cloning (1pt): 
 
-2. Define Cloning: 
+3. Define Branching (1pt):
 
-3. Define Branching:
+4. Define Committing (1pt): 
 
-4. Define Committing: 
+5. Define Merging (1pt): 
 
-5. Define Merging: 
+6. Define Pushing (1pt):
 
-6. Define Pushing:
-
-7. Define Pull Request:
+7. Define Pull Request (1pt):
 
 
-8. TURTORIAL ART
+8. TURTORIAL ART (10pts.)
 
 Modify the starter code below to create your own cool drawing. 
 Make sure you keep the last two lines of code!!!! 
