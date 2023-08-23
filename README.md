@@ -2,6 +2,6 @@
 
 
 
-In this chapter you will be practicing forking, cloning, branching, committing, merging, pushing and pull requesting. You will perform some of this workflow for each chapter throughout this class so it will be really important to have a solid understanding of this process. 
+In this chapter you will be practicing forking, cloning, branching, committing, merging, pushing and pull requesting. You will also create and present a piece of Turtle Art.
 
   </ol>
