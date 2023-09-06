@@ -154,12 +154,14 @@ tommy.right(130)
 tommy.forward(45)
 tommy.end_fill()
 tommy.penup()
-tommy.color('black'')
+tommy.color('black')
 
-tommy.goto(-150, -150)
+tommy.goto(200, -200)
 tommy.pendown()
 tina.goto(-100, -150)
 
 
 tommy.write('Tommy Ngo',font=("Arial", 16, "normal")) # signs your name to your art
+tommy.penup()
+tommy.goto(200, -100)
 turtle.exitonclick() #Keeps pycharm window open so we can see the drawing
