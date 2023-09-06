@@ -154,7 +154,7 @@ tommy.right(130)
 tommy.forward(45)
 tommy.end_fill()
 tommy.penup()
-tommy.color(black)
+tommy.color('black'')
 
 tommy.goto(-150, -150)
 tommy.pendown()
